@@ -1,0 +1,13 @@
+GET https://localhost:3002/players/
+###
+
+POST https://localhost:3002/players/
+###
+
+GET https://localhost:3002/players/:playerId/
+###
+
+PUT https://localhost:3002/players/:playerId/
+
+DELETE https://localhost:3002/players/:playerId/
+###
